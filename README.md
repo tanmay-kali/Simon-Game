@@ -1,3 +1,3 @@
 # Simon-Game
 
-https://tanmay-kali.github.io/Simone-Game/
+https://tanmay-kali.github.io/Simon-Game/
